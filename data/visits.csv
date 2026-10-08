@@ -1,0 +1,49 @@
+id,location_id,visit_date,field_worker,notes
+V021,L017,2026-08-06,Kavya Reddy,Routine check completed
+V047,L039,2026-08-24,Rahul Shetty,"Manager requested follow-up, see email"
+V013,L010,2026-08-30,Rahul Shetty,Customer feedback collected
+V004,L003,2026-09-02,Meena Iyer,"Pending ""invoice"" query raised"
+V033,L027,2026-09-02,Rahul Shetty,Stock levels verified
+V022,L017,2026-09-05,Kavya Reddy,
+V041,L034,2026-09-05,Arun Kumar,Stock levels verified
+V008,L007,2026-09-09,Meena Iyer,New signage installed
+V015,L012,2026-09-11,Arun Kumar,"Manager requested follow-up, see email"
+V039,L033,2026-09-16,Priya Nair,"Manager requested follow-up, see email"
+V034,L028,2026-09-17,Priya Nair,Customer feedback collected
+V011,L009,2026-09-18,Kavya Reddy,
+V017,L013,2026-09-20,Kavya Reddy,Stock levels verified
+V025,L021,2026-09-20,Priya Nair,Stock levels verified
+V001,L001,2026-09-21,Kavya Reddy,"Pending ""invoice"" query raised"
+V018,L015,2026-09-21,Meena Iyer,Customer feedback collected
+V043,L036,2026-09-22,Meena Iyer,
+V007,L006,2026-09-23,Kavya Reddy,Display units need replacement
+V009,L007,2026-09-23,Meena Iyer,Stock levels verified
+V048,L039,2026-09-23,Rahul Shetty,Routine check completed
+V005,L004,2026-09-25,Arun Kumar,Routine check completed
+V016,L012,2026-09-25,Arun Kumar,Routine check completed
+V024,L019,2026-09-25,Meena Iyer,Routine check completed
+V029,L024,2026-09-25,Meena Iyer,Customer feedback collected
+V032,L026,2026-09-25,Kavya Reddy,Routine check completed
+V046,L038,2026-09-25,Arun Kumar,
+V038,L032,2026-09-26,Rahul Shetty,
+V027,L023,2026-09-27,Rahul Shetty,
+V037,L030,2026-09-27,Kavya Reddy,Customer feedback collected
+V002,L001,2026-09-28,Kavya Reddy,"Manager requested follow-up, see email"
+V019,L015,2026-09-28,Meena Iyer,New signage installed
+V030,L025,2026-09-29,Arun Kumar,Stock levels verified
+V044,L036,2026-09-29,Meena Iyer,"Pending ""invoice"" query raised"
+V040,L033,2026-09-30,Priya Nair,Routine check completed
+V035,L028,2026-10-01,Priya Nair,New signage installed
+V036,L029,2026-10-01,Arun Kumar,"Pending ""invoice"" query raised"
+V006,L004,2026-10-02,Arun Kumar,
+V012,L009,2026-10-02,Kavya Reddy,"Pending ""invoice"" query raised"
+V042,L035,2026-10-02,Kavya Reddy,"Manager requested follow-up, see email"
+V020,L016,2026-10-03,Priya Nair,"Pending ""invoice"" query raised"
+V003,L002,2026-10-04,Rahul Shetty,New signage installed
+V023,L018,2026-10-04,Rahul Shetty,Display units need replacement
+V028,L023,2026-10-04,Rahul Shetty,"Pending ""invoice"" query raised"
+V026,L022,2026-10-06,Arun Kumar,"Manager requested follow-up, see email"
+V031,L025,2026-10-06,Arun Kumar,Display units need replacement
+V010,L008,2026-10-07,Priya Nair,"Manager requested follow-up, see email"
+V014,L011,2026-10-07,Meena Iyer,
+V045,L037,2026-10-07,Priya Nair,Customer feedback collected

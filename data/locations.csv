@@ -1,0 +1,41 @@
+id,name,zone,priority,visit_frequency_days
+L001,Hebbal Branch,North,HIGH,7
+L002,Yelahanka Retail Store,North,MEDIUM,14
+L003,Jakkur Service Centre,North,LOW,30
+L004,Sahakar Nagar Warehouse,North,HIGH,7
+L005,RT Nagar Dealer Outlet,North,MEDIUM,14
+L006,Thanisandra Kiosk,North,LOW,30
+L007,Jalahalli Clinic,North,MEDIUM,14
+L008,Peenya Office,North,HIGH,7
+L009,Koramangala Retail Store,South,MEDIUM,14
+L010,Jayanagar Service Centre,South,LOW,30
+L011,JP Nagar Warehouse,South,HIGH,7
+L012,BTM Layout Dealer Outlet,South,MEDIUM,14
+L013,Banashankari Kiosk,South,LOW,30
+L014,Bannerghatta Road Clinic,South,MEDIUM,14
+L015,Electronic City Office,South,HIGH,7
+L016,HSR Layout Branch,South,HIGH,7
+L017,Whitefield Service Centre,East,LOW,30
+L018,Marathahalli Warehouse,East,HIGH,7
+L019,Indiranagar Dealer Outlet,East,MEDIUM,14
+L020,KR Puram Kiosk,East,LOW,30
+L021,Mahadevapura Clinic,East,MEDIUM,14
+L022,Brookefield Office,East,HIGH,7
+L023,Varthur Branch,East,HIGH,7
+L024,CV Raman Nagar Retail Store,East,MEDIUM,14
+L025,Rajajinagar Warehouse,West,HIGH,7
+L026,Vijayanagar Dealer Outlet,West,MEDIUM,14
+L027,Malleshwaram Kiosk,West,LOW,30
+L028,Basaveshwaranagar Clinic,West,MEDIUM,14
+L029,Nagarbhavi Office,West,HIGH,7
+L030,Kengeri Branch,West,HIGH,7
+L031,Yeshwanthpur Retail Store,West,MEDIUM,14
+L032,Magadi Road Service Centre,West,LOW,30
+L033,MG Road Dealer Outlet,Central,MEDIUM,14
+L034,Shivajinagar Kiosk,Central,LOW,30
+L035,Richmond Town Clinic,Central,MEDIUM,14
+L036,Cunningham Road Office,Central,HIGH,7
+L037,Majestic Branch,Central,HIGH,7
+L038,Chickpet Retail Store,Central,MEDIUM,14
+L039,Vasanth Nagar Service Centre,Central,LOW,30
+L040,Ulsoor Warehouse,Central,HIGH,7
